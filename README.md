@@ -115,11 +115,11 @@ Use preset buttons to instantly visit:
 
 ## 🚀 Live Demo
 
-**[👉 Click here to try the Live Demo](https://tharun-ship-it.github.io/perpetual-calendar/)**
+**[👉 Click here to try the Live Demo](https://tharun-ship-it.github.io/perpetual-calendar-interactive-explorer/)**
 
 ## 📁 Project Structure
 ```
-perpetual-calendar/
+perpetual-calendar-interactive-explorer/
 ├── src/
 │   ├── __init__.py          # Package initialization
 │   └── calendar_app.py      # Main application (800+ lines)
